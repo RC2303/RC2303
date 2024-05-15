@@ -3,7 +3,7 @@
 
 🔭 A passionate learner about AI and Robotics<br/>
 🌱 Sharing about my leaning in tech<br/>
-👨‍💻 I’m looking to collaborate on new Projects in AI, ML, DL, CV<br/>
+👨‍💻 I’m looking to collaborate on new Projects AI, ML, DL, CV<br/>
 💬 Currently learning about Generative AI<br/>
 
 # 💻 Tech Stack:
